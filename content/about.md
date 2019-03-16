@@ -1,6 +1,9 @@
 ---
-date: "2016-05-05T21:48:51-07:00"
-title: About
+date: "16.03.2019"
+title: "Hi there!"
 ---
 
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium).
+I'm a 5th year student at the Norwegian University of Science and Technology and an aspiring data scientist.
+Feel free to check out my work on [GitHub](https://github.com/klaapbakken), visit my [LinkedIn](https://www.linkedin.com/in/%C3%B8yvind-kl%C3%A5pbakken-60a536162/) profile or get in touch at [oyvind.klaapbakken@gmail.com](mailto:oyvind.klaapbakken@gmail.com).
+
+If you're curious about my credentials and background, check out my [CV](http://folk.ntnu.no/oyvinkla/cv_%c3%b8k.pdf).
