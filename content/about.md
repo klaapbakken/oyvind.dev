@@ -1,9 +1,3 @@
----
-date: "16.03.2019"
-title: "Hi there!"
----
+I'm a 5th year student at the Norwegian University of Science and Technology and an aspiring data scientist. I'm passionate about deriving insight from data by combining data visualization, statistical techniques and machine learning. I'm proficient in R and Python and I'm always excited to learn about new tools that will allow me to work more efficiently, obtain deeper insights and extract more value from the data I'm working with. 
 
-I'm a 5th year student at the Norwegian University of Science and Technology and an aspiring data scientist.
-Feel free to check out my work on [GitHub](https://github.com/klaapbakken), visit my [LinkedIn](https://www.linkedin.com/in/%C3%B8yvind-kl%C3%A5pbakken-60a536162/) profile or get in touch at [oyvind.klaapbakken@gmail.com](mailto:oyvind.klaapbakken@gmail.com).
-
-If you're curious about my credentials and background, check out my [CV](http://folk.ntnu.no/oyvinkla/cv_%c3%b8k.pdf).
+On this webpage you will mainly find information about my background as well as my personal and academic projects.

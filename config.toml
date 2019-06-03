@@ -1,10 +1,14 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Øyvind Klåpbakken"
-theme = "hugo-lithium"
+title = "oyvind.dev"
+theme = "hugo-coder"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[social]
+    github = "https://github.com/klaapbakken"
+    twitter = "https://twitter.com/klaapbakken"
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
@@ -12,12 +16,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     name = "About"
     url = "/about/"
-[[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/klaapbakken"
-[[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/klaapbakken"
 
 [params]
     description = "A website built through Hugo and blogdown."
@@ -30,13 +28,52 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
     MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
     MathJaxVersion = "2.7.5"
-
-    # path to the favicon, under "static"
-    favicon = "favicon.ico"
-
-    [params.logo]
-    url = "logo.png"
-    width = 50
-    height = 50
-    alt = "Logo"
-
+    
+    #hugo-coder
+    author = "Øyvind Klåpbakken"
+    info = "Studying statistics at NTNU"
+    avatarurl = "images/portrait.jpg"
+    keywords = "blog, portfolio, developer, data scientist, statistician"
+    
+    footercontent = ""
+    
+    math = true
+    hidefooter = true
+    hidecopyright = false
+    hidecredits = false
+    
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/klaapbakken"
+    
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 4
+    url = "https://twitter.com/klaapbakken"
+    
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin-in fa-2x"
+    weight = 5
+    url = "https://www.linkedin.com/in/%C3%B8yvind-kl%C3%A5pbakken-60a536162/"
+    
+[[params.social]]
+    name = "CV"
+    icon = "far fa-file-alt"
+    weight = 2
+    url = "https://klaapbakken.keybase.pub/cv/cv_%C3%B8k.pdf"
+    
+[[params.social]]
+    name = "Mail"
+    icon = "far fa-envelope fa-2x"
+    weight = 5
+    url = "mailto:oyvind.klaapbakken@gmail.com"
+    
+[[params.social]]
+    name = "Keybase"
+    icon = "fab fa-keybase fa-2x"
+    weight = 3
+    url = "https://keybase.io/klaapbakken"
