@@ -32,7 +32,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     #hugo-coder
     author = "Øyvind Klåpbakken"
     info = "Studying statistics at NTNU"
-    avatarurl = "images/portrait.jpg"
+    avatarurl = "img/portrait.jpg"
     keywords = "blog, portfolio, developer, data scientist, statistician"
     
     footercontent = ""
