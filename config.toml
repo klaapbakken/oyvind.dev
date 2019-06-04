@@ -38,6 +38,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     info = "Studying statistics at NTNU"
     avatarurl = "img/portrait.jpg"
     keywords = "blog, portfolio, developer, data scientist, statistician"
+    favicon_32 = "img/favicon.png"
     
     footercontent = ""
     
