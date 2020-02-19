@@ -18,8 +18,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "/about/"
     
 [[menu.main]]
-    name = "Projects"
-    url = "/projects/"
+    name = "Blog"
+    url = "/blog/"
 
 [params]
     description = "A website built through Hugo and blogdown."
@@ -35,9 +35,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     
     #hugo-coder
     author = "Øyvind Klåpbakken"
-    info = "Studying statistics at NTNU"
+    info = "Graduate from NTNU and aspiring data scientist"
     avatarurl = "img/portrait.jpg"
-    keywords = "blog, portfolio, developer, data scientist, statistician"
+    keywords = "blog, portfolio, web site, developer, programmer, data scientist, statistician, sivilingeniør, ntnu, øyvind, klåpbakken, øyvind klåpbakken"
     favicon_32 = "img/favicon.png"
     
     footercontent = ""
@@ -82,3 +82,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     icon = "fab fa-keybase fa-2x"
     weight = 3
     url = "https://keybase.io/klaapbakken"
+    
+#[[params.social]]
+#    name = "Strava"
+#    icon = "fab fa-strava fa-2x"
+#    weight = 6
+#    url = "https://www.strava.com/athletes/46823001"
+
