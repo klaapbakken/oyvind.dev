@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "oyvind.dev"
 theme = "hugo-coder"
 googleAnalytics = "UA-158762707-1"
-disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [social]
@@ -38,7 +37,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     info = "Graduate from NTNU and aspiring data scientist"
     avatarurl = "img/portrait.jpg"
     keywords = "blog, portfolio, web site, developer, programmer, data scientist, statistician, sivilingeniør, ntnu, øyvind, klåpbakken, øyvind klåpbakken"
-    favicon_32 = "img/favicon.png"
+    favicon_32 = ""
     
     footercontent = ""
     
